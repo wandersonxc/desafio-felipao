@@ -23,11 +23,11 @@ O Herói de nome Super Wanderson está no nível de Radiante!
 
 git clone https://github.com/wandersonxc/desafio-felipao.git
 
-Navegue até a pasta do projeto:
+2. Navegue até a pasta do projeto:
 
 cd desafio-felipao
 
-Execute o código:
+3. Execute o código:
 
 node src/index.js
 
